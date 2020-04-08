@@ -1,14 +1,19 @@
 # Flutter Grocery-Home UI includes :
 
-## 📸 Screenshots :
-
-![Gihtub Mock Up](https://user-images.githubusercontent.com/55370377/64933490-3c819d00-d863-11e9-8a9f-fde5414160c3.jpg)
+* Custom ListView
+* Carousel
+* Compatible for Android/iOS
+* Managed by custom created utils for Widget, String etc.
 
 ## Full Source Code UI :
 [https://codecanyon.net/item/flutter-grocery-app-ui-kit/24282032](https://codecanyon.net/item/flutter-grocery-app-ui-kit/24282032)
 
 ## Full Source Code UI + Firebase Backend :
 [https://codecanyon.net/item/flutter-grocery-app-ui-backend/24769375](https://codecanyon.net/item/flutter-grocery-app-ui-backend/24769375)
+
+## 📸 Screenshots :
+
+![Gihtub Mock Up](https://user-images.githubusercontent.com/55370377/64933490-3c819d00-d863-11e9-8a9f-fde5414160c3.jpg)
 
 ## Requirements :
 
