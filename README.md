@@ -1,10 +1,5 @@
 # Flutter Grocery-Home UI includes :
 
-* Custom ListView
-* Carousel
-* Compatible for Android/iOS
-* Managed by custom created utils for Widget, String etc.
-
 ## 📸 Screenshots :
 
 ![Gihtub Mock Up](https://user-images.githubusercontent.com/55370377/64933490-3c819d00-d863-11e9-8a9f-fde5414160c3.jpg)
